@@ -1,5 +1,10 @@
 /* Edo Font */
-@import url("http://fonts.cdnfonts.com/css/edo");
+/* @import url("http://fonts.cdnfonts.com/css/edo"); */
+@font-face{
+font-family:"edo";
+src:url("http://fonts.cdnfonts.com/css/edo");
+
+}
 
 .bg-img {
   background-image: url("../img/Background Image.jpg");
